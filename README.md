@@ -55,11 +55,12 @@
 
 ## SCSS:
 
-- [x] Variables
-- [x] Nesting
-- [x] Mixins
-- [x] Extend
-- [x] Responsive Mixins
+- [ ] Variables
+- [ ] Nesting
+- [ ] Partials
+- [ ] Mixins
+- [ ] Extend
+- [ ] Responsive Mixins
 
 ## To Clone:
 

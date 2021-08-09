@@ -2,9 +2,9 @@
   "name": "scss-masterclass",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "https://github.com/nomadcoders/scss-masterclass",
-  "author": "Nicolás Serrano Arévalo <itnico.las.me@gmail.com>",
-  "license": "MIT",
+  "repository": "https://github.com/babooteng2/scss_clonning",
+  "author": "babooteng2 <babooteng2@gmail.com>",
+  "license": "",
   "dependencies": {
     "@babel/core": "^7.4.5",
     "@babel/preset-env": "^7.4.5",
