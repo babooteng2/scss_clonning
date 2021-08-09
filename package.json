@@ -4,8 +4,8 @@
   "main": "index.js",
   "repository": "https://github.com/babooteng2/scss_clonning",
   "author": "babooteng2 <babooteng2@gmail.com>",
-  "license": "",
-  "dependencies": {
+  "license": "MIT",
+  "devDependencies": {
     "@babel/core": "^7.4.5",
     "@babel/preset-env": "^7.4.5",
     "@babel/register": "^7.4.4",
