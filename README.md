@@ -60,7 +60,7 @@
 - [x] Partials
 - [x] Mixins
 - [x] Extend
-- [ ] Responsive Mixins
+- [x] Responsive Mixins
 
 ## To Clone:
 

@@ -1,2 +1,7 @@
 $paddingLeft: 65px;
 $bg: #e7473c;
+
+$minIphone: 500px;
+$maxIphone: 640px;
+$minTablet: $minIphone + 1;
+$maxTablet: 1120px;
